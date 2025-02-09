@@ -1,4 +1,3 @@
-```markdown:README.md
 # Microsoft Security Incident Prediction Analysis
 
 ## Project Overview
@@ -89,4 +88,3 @@ project/
 
 ---
 **Note**: This project represents an exploratory approach to problem-solving. It outlines the theoretical framework and potential methodologies but does not include actual implementations. All components are in conceptual phase and require further development for practical application.
-```
